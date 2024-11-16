@@ -1,0 +1,144 @@
+supprimer un dé
+1
+0
+
+supprimer un dé
+1
+0
+
+supprimer un dé
+1
+0
+
+supprimer un dé
+1
+0
+
+supprimer un dé
+1
+0
+
+supprimer un dé
+1
+0
+
+supprimer un dé
+1
+0
+
+échanger les dés
+2
+1
+
+échanger les dés
+2
+1
+
+échanger les dés
+2
+1
+
+supprimer deux dés
+3
+2
+
+supprimer deux dés
+3
+2
+
+supprimer deux dés
+3
+2
+
+supprimer deux dés
+3
+2
+
+supprimer deux dés
+3
+2
+
+donner un dé
+3
+3
+
+donner un dé
+3
+3
+
+donner un dé
+3
+3
+
+voler une carte
+1
+4
+
+voler une carte
+1
+4
+
+voler une carte
+1
+4
+
+garder qu'une carte
+1
+5
+
+garder qu'une carte
+1
+5
+
+garder qu'une carte
+1
+5
+
+garder qu'une carte
+1
+5
+
+piocher trois cartes
+1
+6
+
+piocher trois cartes
+1
+6
+
+piocher trois cartes
+1
+6
+
+deux cartes restantes
+2
+7
+
+deux cartes restantes
+2
+7
+
+deux cartes restantes
+2
+7
+
+deux cartes restantes
+2
+7
+
+passer son tour
+0
+8
+
+passer son tour
+0
+8
+
+rejouer
+0
+9
+
+rejouer
+0
+9
+
